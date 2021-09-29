@@ -62,7 +62,7 @@ Install  all dependancies that will make the app run/function
     - Postgresql
     - GIT
         
- 
+   
 ### License
 
 Neighbourhood101 is under the ***[MIT](LICENSE)*** license.
