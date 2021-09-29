@@ -52,7 +52,7 @@ Install  all dependancies that will make the app run/function
 `Username: Admin`
 `Password: Access254`
      
-
+   
 ### Technologies used
     - Python 3.8.10
     - HTML5
