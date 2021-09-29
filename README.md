@@ -61,7 +61,7 @@ Install  all dependancies that will make the app run/function
     - Django-Heroku
     - Postgresql
     - GIT
-                                       
+                                           
         
 ### License
 
