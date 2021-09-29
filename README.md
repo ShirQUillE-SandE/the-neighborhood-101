@@ -51,7 +51,7 @@ Install  all dependancies that will make the app run/function
 * Firstly you must be on the homepage to access it.
 `Username: Admin`
 `Password: Access254`
-
+     
 
 ### Technologies used
     - Python 3.8.10
