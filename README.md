@@ -50,7 +50,7 @@ Install  all dependancies that will make the app run/function
 * The admin dashboard can be accessed from the dropdown menu just below the profile icon.
 * Firstly you must be on the homepage to access it.
 `Username: Admin`
-`Password: Access254`
+`Password: Access254`   
       
    
 ### Technologies used
