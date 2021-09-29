@@ -54,7 +54,7 @@ Install  all dependancies that will make the app run/function
       
    
 ### Technologies used
-    - Python 3.8.10
+    - Python 3
     - HTML5
     - Django 3.2.5
     - Bootstrap 3
