@@ -65,6 +65,4 @@ Install  all dependancies that will make the app run/function
 
 ### License
 
-Neighbourhood(Chocolate city) is under the ***[MIT](LICENSE)*** license.
-
-@Jaycreations-2021.
+Neighbourhood101 is under the ***[MIT](LICENSE)*** license.
